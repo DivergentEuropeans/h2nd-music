@@ -1,25 +1,30 @@
 # H2ND downloadable languages
 
-These are small text-only language packs, not translation models. Spanish is a
-partial sample, not a complete translation. English remains built into the app.
+`es.json` is the expanded Spanish pack (about 190 KB). It covers menus, actions,
+story messages, tutorials, stock reports, drawing and minigame UI. English remains
+built into the app. Downloaded languages work offline.
 
-The app's list address is:
+The Spanish pack is still marked `partial: true`: wording and phone layouts need
+review. Typing/spelling game answers stay English so the displayed word matches
+the game's input checks. Proper names and stock tickers also remain unchanged.
+
+The app checks:
 
 https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/catalog.json
 
-Nothing becomes available online until these files are committed and pushed to the
-public hosting repository. GitHub Pages is not required for raw GitHub addresses.
+To make a local update available, commit and push **both es.json and catalog.json**
+to the public repository. Preparing these files does not publish them. GitHub Pages
+is not required for this raw-file address.
 
-In the app: Settings > Language / Idioma > Check available languages, then tap a
-language to download. Once installed, it works offline. Before publication the list
-will fail to load; the built-in Spanish sample and existing installed packs work.
+Players need the updated app for translated joined stories, image headings,
+drawing and minigames. Then choose Settings > Language / Idioma > Check available
+languages > Download latest: Español. Existing language files are not replaced
+silently.
 
-When updating a pack, regenerate catalog.json with the preparation tool in the game
-repository. Commit the language JSON and catalog together. Editing JSON directly
-without updating its SHA-256 checksum makes the app reject that download.
+When changing a translation, use the game repository's preparation tool to update
+catalog.json with the correct checksum. Do not edit the hosted file alone: a
+mismatched checksum makes the app reject the download. The editable source and
+validation instructions are in the game repository's translations folder.
 
-All generated entries default to partial=true. Set partial=false only after a pack
-is complete and reviewed. Preparation resets updated entries to partial=true.
-
-To add a language, prepare its translated pack in the game repository first; do not
-copy untranslated English entries and label them as a complete language.
+The language system has no translation SDK or language models. The large Spanish
+pack is downloaded only when requested and is not bundled into the English APK.
