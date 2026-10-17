@@ -2,6 +2,7 @@
   "version": 1,
   "code": "es",
   "name": "Español",
+  "partial": false,
   "translations": {
     "Physical": "Físico",
     "Mental": "Mental",

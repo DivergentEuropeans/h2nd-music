@@ -4,9 +4,10 @@
 story messages, tutorials, stock reports, drawing and minigame UI. English remains
 built into the app. Downloaded languages work offline.
 
-The Spanish pack is still marked `partial: true`: wording and phone layouts need
-review. Typing/spelling game answers stay English so the displayed word matches
-the game's input checks. Proper names and stock tickers also remain unchanged.
+The Spanish pack is listed as Español, without a partial label. Wording and phone
+layouts can still benefit from review. Typing/spelling game answers stay English
+so displayed words match the input checks. Proper names, stock tickers and original
+image artwork (including English image headings) also remain unchanged.
 
 The app checks:
 
@@ -16,10 +17,11 @@ To make a local update available, commit and push **both es.json and catalog.jso
 to the public repository. Preparing these files does not publish them. GitHub Pages
 is not required for this raw-file address.
 
-Players need the updated app for translated joined stories, image headings,
-drawing and minigames. Then choose Settings > Language / Idioma > Check available
-languages > Download latest: Español. Existing language files are not replaced
-silently.
+Players need the updated app for translated joined stories, drawing and minigames.
+Then open Settings > Language / Idioma. The available-language list refreshes
+automatically. Choose Download latest: Español to update the installed translation.
+Existing language files are not replaced silently. Installed languages remain
+selectable while the list loads; each has a Remove button. Built-in English does not.
 
 When changing a translation, use the game repository's preparation tool to update
 catalog.json with the correct checksum. Do not edit the hosted file alone: a

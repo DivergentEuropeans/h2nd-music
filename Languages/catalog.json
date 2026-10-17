@@ -5,8 +5,8 @@
       "code": "es",
       "name": "Español",
       "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/es.json",
-      "sha256": "100f7a504329bec036562d519f0e9770c5064e362b8ee7586d5976b0ae5d07fe",
-      "partial": true
+      "sha256": "56122c065d05a1d05352b383118090875be5079577442eec735220eed5950245",
+      "partial": false
     }
   ]
 }
