@@ -21,6 +21,13 @@
       "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/ru.json",
       "sha256": "a340605de023f289680eaaf6107a2a9bad936baad165f760cccf2f9656f2b0e7",
       "partial": false
+    },
+    {
+      "code": "zh-Hans",
+      "name": "简体中文",
+      "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/zh-Hans.json",
+      "sha256": "3130eeecd0a87c97221adce3e35083976cbcb5b7c3c6f1e306b3893030d58422",
+      "partial": false
     }
   ]
 }
