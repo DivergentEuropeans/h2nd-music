@@ -7,6 +7,13 @@
       "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/es.json",
       "sha256": "2a8a00af9f88e8336dc7141ffddec0a085cd7185688d1cd320f939406ca48e2d",
       "partial": false
+    },
+    {
+      "code": "hi",
+      "name": "हिन्दी",
+      "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/hi.json",
+      "sha256": "393ce581460edf8b67d0adfac577c23e2d4905a7eb624c3f01bf96fb9d85ee9b",
+      "partial": false
     }
   ]
 }
