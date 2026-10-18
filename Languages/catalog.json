@@ -14,6 +14,13 @@
       "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/hi.json",
       "sha256": "393ce581460edf8b67d0adfac577c23e2d4905a7eb624c3f01bf96fb9d85ee9b",
       "partial": false
+    },
+    {
+      "code": "ru",
+      "name": "Русский",
+      "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/ru.json",
+      "sha256": "a340605de023f289680eaaf6107a2a9bad936baad165f760cccf2f9656f2b0e7",
+      "partial": false
     }
   ]
 }
