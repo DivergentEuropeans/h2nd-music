@@ -2,6 +2,13 @@
   "version": 1,
   "languages": [
     {
+      "code": "ar",
+      "name": "العربية",
+      "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/ar.json",
+      "sha256": "60697e70a6ec94bce32f896e83358e3760167e9361482207900989031a21ef11",
+      "partial": false
+    },
+    {
       "code": "es",
       "name": "Español",
       "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/es.json",
