@@ -4,6 +4,7 @@
   "name": "العربية",
   "partial": false,
   "translations": {
+    "Go to a concert.": "اذهب إلى حفل موسيقي.",
     "For once, the food tastes as expensive as it looks. Your taste buds forgive your financial decisions.": "للمرة الأولى، طعم الطعام فاخر مثل شكله. تسامحك براعم التذوق على قراراتك المالية.",
     "The chef spends more time explaining the meal than cooking it. You miss your microwave.": "يقضي الطاهي في شرح الوجبة وقتًا أطول من طهيها. تشتاق إلى الميكروويف.",
     "The TV chef cooks you a healthy meal, then calls you a fucking donkey for asking for ketchup.": "يعدّ لك طاهي التلفزيون وجبة صحية، ثم يناديك يا حمار يا ابن الكلب لأنك طلبت الكاتشب.",
@@ -1768,6 +1769,25 @@
     "Tap to flap and keep the bird in the air. Fly through the gaps between the pipes without touching them or the ground. Higher tiers mean more pipes, smaller gaps and faster scrolling.": "المس الشاشة لترفرف وتُبقي الطائر في الهواء. طِر عبر الفجوات بين الأنابيب دون أن تلمسها أو تلمس الأرض. المستويات الأعلى تعني أنابيب أكثر وفجوات أصغر وسرعة أكبر.",
     "Pipes: {0}/{1}": "الأنابيب: ⁦{0}/{1}⁩",
     "Tap to start": "المس للبدء",
-    "Tap anywhere to flap. Don't touch the pipes or the ground.": "المس أي مكان لترفرف. لا تلمس الأنابيب ولا الأرض."
+    "Tap anywhere to flap. Don't touch the pipes or the ground.": "المس أي مكان لترفرف. لا تلمس الأنابيب ولا الأرض.",
+    "Arm Circles": "دوائر الذراعين",
+    "Block Drop": "سقوط المكعبات",
+    "Hop To It": "هيا نقفز",
+    "Quick Draw": "أسرع بالسحب",
+    "Steady Hand": "يد ثابتة",
+    "Tilt Sequence": "تسلسل الإمالة",
+    "Hold your phone against your chest and jump in place. Every time you leave the ground and land counts as a hop. Higher tiers want more hops in a tighter window.": "أمسك الهاتف ملاصقًا لصدرك واقفز في مكانك. كل قفزة عن الأرض يتبعها هبوط تُحسب قفزة واحدة. تتطلب المستويات الأعلى قفزات أكثر بهامش زمني أضيق.",
+    "Hold your phone dead still. The instant it flashes DRAW!, flick it up like a gunslinger. Move too early and it's a false start. Higher tiers shrink the reaction window and throw in fake-outs.": "أبقِ الهاتف ثابتًا تمامًا. فور ظهور «اسحب!» ارفعه بحركة خاطفة كأنك تسحب مسدسًا. التحرك مبكرًا يُعدّ بداية خاطئة. تقل مهلة الاستجابة في المستويات الأعلى وتظهر إشارات خادعة.",
+    "Hold your phone in an outstretched arm and swing big circles, always the same way. The gyroscope counts every full turn. Higher tiers want more circles, faster.": "أمسك الهاتف بذراع ممدودة وارسم دوائر كبيرة، دائمًا في الاتجاه نفسه. يحسب الجيروسكوب كل دورة كاملة. تتطلب المستويات الأعلى دوائر أكثر وبسرعة أكبر.",
+    "Hold your phone still. Tilting it rolls the ball the same way — keep it inside the target until the timer fills. The closer to the center, the more points. Higher tiers shrink the target and add a drift you have to fight.": "أمسك الهاتف بثبات. إمالته تجعل الكرة تتدحرج في الاتجاه نفسه؛ أبقِها داخل الهدف حتى يمتلئ المؤقت. كلما اقتربت من المركز زادت النقاط. يصغر الهدف في المستويات الأعلى وتُضاف قوة انحراف عليك مقاومتها.",
+    "Stack falling blocks and clear full lines before time runs out. Tap the board to rotate, drag to move, or use the buttons. Higher tiers fall faster, start with junk rows and hide the helpers.": "رتّب المكعبات الساقطة وأكمل الصفوف لإزالتها قبل انتهاء الوقت. المس اللوحة للتدوير، واسحب للتحريك، أو استخدم الأزرار. في المستويات الأعلى تسقط القطع أسرع، وتبدأ بصفوف عشوائية غير مكتملة، وتختفي وسائل المساعدة.",
+    "Tilt your phone left, right, forward or back in the order shown, returning to level between moves. Higher tiers want longer sequences, deeper tilts, and finally make you memorize the whole sequence first.": "أمِل هاتفك يسارًا أو يمينًا أو للأمام أو للخلف بالترتيب المعروض، وأعِده أفقيًا بين الحركات. تتطلب المستويات الأعلى تسلسلات أطول وإمالات أكبر، وفي النهاية عليك حفظ التسلسل كاملًا أولًا.",
+    "Tier:": "المستوى:",
+    "{0} games registered": "الألعاب المتاحة: {0}",
+    "Tiers: {0}-{1}  |  Weight: {2}  |  Time @ T{3}: {4}s": "المستويات: {0}-{1}  |  الوزن: {2}  |  وقت المستوى {3}: {4} ث",
+    "{0}s": "{0} ث",
+    "{0} ms": "{0} مللي ثانية",
+    "COMBO x{0}": "كومبو x{0}",
+    "Whack-a-Mole": "اضرب الخلد"
   }
 }

@@ -4,6 +4,9 @@
   "name": "Русский",
   "partial": false,
   "translations": {
+    "Go to a concert.": "Сходить на концерт.",
+    "Made with human-made art & music.": "Рисунки и музыка — работа людей.",
+    "Made with human-made art & music. But we def still using a lot of AI fs, like that shit ain't too bad.": "Рисунки и музыка — работа людей. Но ИИ мы всё равно используем дофига, факт. Не такая уж это хрень.",
     "For once, the food tastes as expensive as it looks. Your taste buds forgive your financial decisions.": "В кои-то веки еда на вкус такая же дорогая, как на вид. Вкусовые рецепторы прощают тебе финансовые решения.",
     "The chef spends more time explaining the meal than cooking it. You miss your microwave.": "Повар дольше рассказывает о блюде, чем готовит его. Ты скучаешь по своей микроволновке.",
     "The TV chef cooks you a healthy meal, then calls you a fucking donkey for asking for ketchup.": "Телеповар готовит тебе полезный обед, а потом обзывает грёбаным ослом за просьбу принести кетчуп.",
@@ -1729,6 +1732,27 @@
     "Tap to flap and keep the bird in the air. Fly through the gaps between the pipes without touching them or the ground. Higher tiers mean more pipes, smaller gaps and faster scrolling.": "Нажимай, чтобы махать крыльями и держать птицу в воздухе. Пролетай в просветы между трубами, не задевая их и землю. На высоких уровнях больше труб, просветы уже, а скорость выше.",
     "Pipes: {0}/{1}": "Трубы: {0}/{1}",
     "Tap to start": "Нажми, чтобы начать",
-    "Tap anywhere to flap. Don't touch the pipes or the ground.": "Нажимай в любом месте, чтобы махать крыльями. Не задевай трубы и землю."
+    "Tap anywhere to flap. Don't touch the pipes or the ground.": "Нажимай в любом месте, чтобы махать крыльями. Не задевай трубы и землю.",
+    "Arm Circles": "Круги руками",
+    "Block Drop": "Блокопад",
+    "Hop To It": "Прыгай!",
+    "Quick Draw": "Дуэль",
+    "Steady Hand": "Твёрдая рука",
+    "Tilt Sequence": "Последовательность наклонов",
+    "Hold your phone against your chest and jump in place. Every time you leave the ground and land counts as a hop. Higher tiers want more hops in a tighter window.": "Прижми телефон к груди и прыгай на месте. Каждый отрыв от земли с последующим приземлением считается прыжком. На высоких уровнях нужно больше прыжков при меньшем запасе времени.",
+    "Hold your phone dead still. The instant it flashes DRAW!, flick it up like a gunslinger. Move too early and it's a false start. Higher tiers shrink the reaction window and throw in fake-outs.": "Держи телефон совершенно неподвижно. Как только появится сигнал к выстрелу, резко вскинь его, словно револьвер на дуэли. Двинешься раньше — фальстарт. На высоких уровнях времени на реакцию меньше, а сигналы бывают обманными.",
+    "Hold your phone in an outstretched arm and swing big circles, always the same way. The gyroscope counts every full turn. Higher tiers want more circles, faster.": "Держи телефон в вытянутой руке и описывай большие круги, всегда в одну сторону. Гироскоп считает каждый полный оборот. На высоких уровнях нужно больше кругов и более быстрый темп.",
+    "Hold your phone still. Tilting it rolls the ball the same way — keep it inside the target until the timer fills. The closer to the center, the more points. Higher tiers shrink the target and add a drift you have to fight.": "Держи телефон устойчиво. Наклон катит шарик в ту же сторону — удерживай его внутри мишени, пока не заполнится таймер. Чем ближе к центру, тем больше очков. На высоких уровнях мишень уменьшается, а шарик начинает сносить в сторону.",
+    "Stack falling blocks and clear full lines before time runs out. Tap the board to rotate, drag to move, or use the buttons. Higher tiers fall faster, start with junk rows and hide the helpers.": "Укладывай падающие блоки и убирай заполненные линии до конца времени. Нажимай на поле для поворота, перетаскивай для перемещения или пользуйся кнопками. На высоких уровнях блоки падают быстрее, внизу уже есть мусорные ряды, а подсказки скрыты.",
+    "Tilt your phone left, right, forward or back in the order shown, returning to level between moves. Higher tiers want longer sequences, deeper tilts, and finally make you memorize the whole sequence first.": "Наклоняй телефон влево, вправо, вперёд или назад в указанном порядке, каждый раз возвращая его в горизонтальное положение. На высоких уровнях последовательности длиннее, наклоны глубже, а под конец весь порядок придётся сначала запомнить.",
+    "Tier:": "Уровень:",
+    "{0} games registered": "Доступно игр: {0}",
+    "Tiers: {0}-{1}  |  Weight: {2}  |  Time @ T{3}: {4}s": "Уровни: {0}-{1}  |  Вес: {2}  |  Время на ур. {3}: {4} с",
+    "{0}s": "{0} с",
+    "{0} ms": "{0} мс",
+    "COMBO x{0}": "КОМБО x{0}",
+    "ICE": "ЛЁД",
+    "LEMON": "ЛИМОН",
+    "Whack-a-Mole": "Ударь крота"
   }
 }

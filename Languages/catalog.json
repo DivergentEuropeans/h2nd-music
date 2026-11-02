@@ -5,35 +5,35 @@
       "code": "ar",
       "name": "العربية",
       "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/ar.json",
-      "sha256": "26aa865a85e84f469c53708d3224dadca6c3f21a9b4fcf20651df064650fbda6",
+      "sha256": "49773be5ba34729ba37d3188e66c487afabbb68b57bae612519cfbde92bd4e88",
       "partial": false
     },
     {
       "code": "es",
       "name": "Español",
       "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/es.json",
-      "sha256": "691c86b2486abe298fa9d8173500da36a2036b4bd3607d79830c4f5162bc2272",
+      "sha256": "7f63924042ea9e56225ab894787795c969001d0f25f200ca07a4f0ea4ce3d47e",
       "partial": false
     },
     {
       "code": "hi",
       "name": "हिन्दी",
       "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/hi.json",
-      "sha256": "64bbb25d1a457c0fdd6f859f85ad44cca0008ff29ab5e2bf9ab67a9d9abe6294",
+      "sha256": "67a50284915761ff1388c08d8bbe5edea9f519285fb32c69babff9194c38cae1",
       "partial": false
     },
     {
       "code": "ru",
       "name": "Русский",
       "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/ru.json",
-      "sha256": "6f2a0d744d3b3db52100f00fd6edacf21fee6c0a1d46662ae5a32b84d2f25eab",
+      "sha256": "612245d9435cff65beb8f62f81ff9cb9ee0001f32cc2314a95c3cd4ff8971836",
       "partial": false
     },
     {
       "code": "zh-Hans",
       "name": "简体中文",
       "url": "https://raw.githubusercontent.com/DivergentEuropeans/h2nd-music/main/Languages/zh-Hans.json",
-      "sha256": "50b9fdfb023ea5289de582c781451106d25f482f8b4a173d1352d9d926f1f8db",
+      "sha256": "fb0778e8e3a74bc816d00d046a90f93c68389c81813e5ff26ffef6f11195e857",
       "partial": false
     }
   ]

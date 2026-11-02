@@ -4,6 +4,9 @@
   "name": "Español",
   "partial": false,
   "translations": {
+    "Go to a concert.": "Ir a un concierto.",
+    "Made with human-made art & music.": "Hecho con arte y música creados por personas.",
+    "Made with human-made art & music. But we def still using a lot of AI fs, like that shit ain't too bad.": "Hecho con arte y música creados por personas. Pero sí, seguimos usando IA a saco, eso seguro. Que esa mierda tampoco está tan mal.",
     "For once, the food tastes as expensive as it looks. Your taste buds forgive your financial decisions.": "Por una vez, la comida sabe tan cara como parece. Tus papilas gustativas te perdonan las decisiones financieras.",
     "The chef spends more time explaining the meal than cooking it. You miss your microwave.": "El chef tarda más en explicar el plato que en cocinarlo. Echas de menos tu microondas.",
     "The TV chef cooks you a healthy meal, then calls you a fucking donkey for asking for ketchup.": "El chef de la tele te prepara una comida sana y luego te llama puto burro por pedir kétchup.",
@@ -1692,6 +1695,27 @@
     "Tap to flap and keep the bird in the air. Fly through the gaps between the pipes without touching them or the ground. Higher tiers mean more pipes, smaller gaps and faster scrolling.": "Toca para aletear y mantén al pájaro en el aire. Vuela por los huecos entre las tuberías sin tocarlas ni tocar el suelo. Los niveles más altos traen más tuberías, huecos más pequeños y más velocidad.",
     "Pipes: {0}/{1}": "Tuberías: {0}/{1}",
     "Tap to start": "Toca para empezar",
-    "Tap anywhere to flap. Don't touch the pipes or the ground.": "Toca en cualquier parte para aletear. No toques las tuberías ni el suelo."
+    "Tap anywhere to flap. Don't touch the pipes or the ground.": "Toca en cualquier parte para aletear. No toques las tuberías ni el suelo.",
+    "Arm Circles": "Círculos con los brazos",
+    "Block Drop": "Caída de bloques",
+    "Hop To It": "¡A saltar!",
+    "Quick Draw": "Desenfunda rápido",
+    "Steady Hand": "Pulso firme",
+    "Tilt Sequence": "Secuencia de inclinaciones",
+    "Hold your phone against your chest and jump in place. Every time you leave the ground and land counts as a hop. Higher tiers want more hops in a tighter window.": "Sujeta el teléfono contra el pecho y salta en el sitio. Cada despegue y aterrizaje cuenta como un salto. Los niveles altos exigen más saltos y menos margen de tiempo.",
+    "Hold your phone dead still. The instant it flashes DRAW!, flick it up like a gunslinger. Move too early and it's a false start. Higher tiers shrink the reaction window and throw in fake-outs.": "Mantén el teléfono completamente quieto. En cuanto aparezca ¡DESENFUNDA!, levántalo de un golpe como un pistolero. Si te mueves antes, es una salida en falso. Los niveles altos dejan menos tiempo para reaccionar e incluyen señales de engaño.",
+    "Hold your phone in an outstretched arm and swing big circles, always the same way. The gyroscope counts every full turn. Higher tiers want more circles, faster.": "Sujeta el teléfono con el brazo extendido y traza círculos amplios, siempre en la misma dirección. El giroscopio cuenta cada vuelta completa. Los niveles altos piden más vueltas y más rapidez.",
+    "Hold your phone still. Tilting it rolls the ball the same way — keep it inside the target until the timer fills. The closer to the center, the more points. Higher tiers shrink the target and add a drift you have to fight.": "Mantén el teléfono estable. Al inclinarlo, la bola rueda en esa dirección: mantenla dentro del objetivo hasta que se llene el temporizador. Cuanto más cerca del centro, más puntos. En los niveles altos el objetivo se encoge y aparece una deriva que debes compensar.",
+    "Stack falling blocks and clear full lines before time runs out. Tap the board to rotate, drag to move, or use the buttons. Higher tiers fall faster, start with junk rows and hide the helpers.": "Apila los bloques que caen y completa líneas antes de que se acabe el tiempo. Toca el tablero para girar, arrastra para mover o usa los botones. En los niveles altos los bloques caen más rápido, empiezas con filas de relleno y desaparecen las ayudas.",
+    "Tilt your phone left, right, forward or back in the order shown, returning to level between moves. Higher tiers want longer sequences, deeper tilts, and finally make you memorize the whole sequence first.": "Inclina el teléfono a la izquierda, derecha, delante o detrás en el orden indicado, volviendo a dejarlo horizontal entre movimientos. Los niveles altos piden secuencias más largas, inclinaciones mayores y, al final, memorizar primero toda la secuencia.",
+    "Tier:": "Nivel:",
+    "{0} games registered": "{0} juegos disponibles",
+    "Tiers: {0}-{1}  |  Weight: {2}  |  Time @ T{3}: {4}s": "Niveles: {0}-{1}  |  Peso: {2}  |  Tiempo en nivel {3}: {4}s",
+    "{0}s": "{0}s",
+    "{0} ms": "{0} ms",
+    "COMBO x{0}": "COMBO x{0}",
+    "ICE": "HIELO",
+    "LEMON": "LIMÓN",
+    "Whack-a-Mole": "Aplasta topos"
   }
 }

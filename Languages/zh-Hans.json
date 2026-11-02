@@ -4,6 +4,9 @@
   "name": "简体中文",
   "partial": false,
   "translations": {
+    "Go to a concert.": "去听演唱会。",
+    "Made with human-made art & music.": "美术和音乐均由人类创作。",
+    "Made with human-made art & music. But we def still using a lot of AI fs, like that shit ain't too bad.": "美术和音乐均由人类创作。不过说真的，AI 我们照样用得贼多。那玩意儿还真他妈挺好使。",
     "For once, the food tastes as expensive as it looks. Your taste buds forgive your financial decisions.": "难得一次，食物吃起来和看起来一样贵。你的味蕾原谅了你的财务决策。",
     "The chef spends more time explaining the meal than cooking it. You miss your microwave.": "厨师介绍这道菜的时间比做菜还长。你开始想念自家的微波炉。",
     "The TV chef cooks you a healthy meal, then calls you a fucking donkey for asking for ketchup.": "电视名厨给你做了顿健康餐，然后因为你要番茄酱，骂你是头他妈的蠢驴。",
@@ -1741,6 +1744,27 @@
     "Tap to flap and keep the bird in the air. Fly through the gaps between the pipes without touching them or the ground. Higher tiers mean more pipes, smaller gaps and faster scrolling.": "点击屏幕扇动翅膀，让小鸟保持在空中。穿过管道之间的空隙，不要碰到管道或地面。等级越高，管道越多，空隙越小，速度越快。",
     "Pipes: {0}/{1}": "管道：{0}/{1}",
     "Tap to start": "点击开始",
-    "Tap anywhere to flap. Don't touch the pipes or the ground.": "点击任意位置扇动翅膀。不要碰到管道或地面。"
+    "Tap anywhere to flap. Don't touch the pipes or the ground.": "点击任意位置扇动翅膀。不要碰到管道或地面。",
+    "Arm Circles": "手臂绕圈",
+    "Block Drop": "方块下落",
+    "Hop To It": "跳起来",
+    "Quick Draw": "快枪手",
+    "Steady Hand": "稳住手",
+    "Tilt Sequence": "倾斜顺序",
+    "Hold your phone against your chest and jump in place. Every time you leave the ground and land counts as a hop. Higher tiers want more hops in a tighter window.": "把手机贴在胸前，原地起跳。每次离地后落地算一次跳跃。等级越高，要求的跳跃越多，时间也越紧。",
+    "Hold your phone dead still. The instant it flashes DRAW!, flick it up like a gunslinger. Move too early and it's a false start. Higher tiers shrink the reaction window and throw in fake-outs.": "让手机保持完全静止。一出现“拔枪！”，就像快枪手一样迅速把手机向上一甩。动得太早就算抢跑。等级越高，反应时间越短，还会出现假信号。",
+    "Hold your phone in an outstretched arm and swing big circles, always the same way. The gyroscope counts every full turn. Higher tiers want more circles, faster.": "伸直手臂拿住手机，始终朝同一方向画大圆。陀螺仪会记录每次完整转圈。等级越高，要求的圈数越多，速度也要越快。",
+    "Hold your phone still. Tilting it rolls the ball the same way — keep it inside the target until the timer fills. The closer to the center, the more points. Higher tiers shrink the target and add a drift you have to fight.": "稳稳拿住手机。向哪边倾斜，球就往哪边滚。让球留在目标内，直到计时条填满。越靠近中心，得分越高。等级越高，目标越小，还得抵消额外的漂移。",
+    "Stack falling blocks and clear full lines before time runs out. Tap the board to rotate, drag to move, or use the buttons. Higher tiers fall faster, start with junk rows and hide the helpers.": "堆放落下的方块，在时间耗尽前消除完整的行。点击棋盘旋转，拖动移动，也可以使用按钮。等级越高，下落越快，开局就有垃圾行，辅助提示也会隐藏。",
+    "Tilt your phone left, right, forward or back in the order shown, returning to level between moves. Higher tiers want longer sequences, deeper tilts, and finally make you memorize the whole sequence first.": "按显示的顺序将手机向左、右、前或后倾斜，每次动作之间都要恢复水平。等级越高，顺序越长，倾斜幅度越大，最后还得先记住整套顺序。",
+    "Tier:": "等级：",
+    "{0} games registered": "可用小游戏：{0}",
+    "Tiers: {0}-{1}  |  Weight: {2}  |  Time @ T{3}: {4}s": "等级：{0}-{1}  |  权重：{2}  |  等级 {3} 时限：{4}秒",
+    "{0}s": "{0}秒",
+    "{0} ms": "{0} 毫秒",
+    "COMBO x{0}": "连击 x{0}",
+    "ICE": "冰块",
+    "LEMON": "柠檬",
+    "Whack-a-Mole": "打地鼠"
   }
 }

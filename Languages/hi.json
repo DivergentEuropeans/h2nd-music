@@ -4,6 +4,9 @@
   "name": "हिन्दी",
   "partial": false,
   "translations": {
+    "Go to a concert.": "कॉन्सर्ट में जाओ.",
+    "Made with human-made art & music.": "इंसानों की बनाई कला और संगीत से बना है।",
+    "Made with human-made art & music. But we def still using a lot of AI fs, like that shit ain't too bad.": "इंसानों की बनाई कला और संगीत से बना है। लेकिन हाँ, AI का भी जमकर इस्तेमाल करते हैं, पक्का। वो साला इतना बुरा भी नहीं है।",
     "For once, the food tastes as expensive as it looks. Your taste buds forgive your financial decisions.": "एक बार तो खाना जितना महँगा दिखता है, उतना स्वादिष्ट भी है. तुम्हारी जीभ तुम्हारे पैसों की बर्बादी माफ़ कर देती है.",
     "The chef spends more time explaining the meal than cooking it. You miss your microwave.": "शेफ खाना बनाने से ज़्यादा वक्त उसका बखान करने में लगाता है. तुम्हें अपने माइक्रोवेव की याद आती है.",
     "The TV chef cooks you a healthy meal, then calls you a fucking donkey for asking for ketchup.": "टीवी वाला शेफ तुम्हारे लिए पौष्टिक खाना बनाता है, फिर केचप माँगने पर तुम्हें साला गधा कहता है.",
@@ -1716,6 +1719,27 @@
     "Tap to flap and keep the bird in the air. Fly through the gaps between the pipes without touching them or the ground. Higher tiers mean more pipes, smaller gaps and faster scrolling.": "पंख फड़फड़ाने के लिए टैप करो और चिड़िया को हवा में रखो. पाइपों के बीच की जगह से उड़ो, पाइप या ज़मीन को छुए बिना. ऊंचे लेवल पर ज़्यादा पाइप, छोटी जगह और तेज़ रफ़्तार.",
     "Pipes: {0}/{1}": "पाइप: {0}/{1}",
     "Tap to start": "शुरू करने के लिए टैप करो",
-    "Tap anywhere to flap. Don't touch the pipes or the ground.": "फड़फड़ाने के लिए कहीं भी टैप करो. पाइप या ज़मीन को मत छूना."
+    "Tap anywhere to flap. Don't touch the pipes or the ground.": "फड़फड़ाने के लिए कहीं भी टैप करो. पाइप या ज़मीन को मत छूना.",
+    "Arm Circles": "बाँहों के घेरे",
+    "Block Drop": "गिरते ब्लॉक",
+    "Hop To It": "चलो कूदो",
+    "Quick Draw": "झटपट चलाओ",
+    "Steady Hand": "स्थिर हाथ",
+    "Tilt Sequence": "झुकाव का क्रम",
+    "Hold your phone against your chest and jump in place. Every time you leave the ground and land counts as a hop. Higher tiers want more hops in a tighter window.": "फ़ोन को सीने से लगाकर पकड़ो और एक ही जगह कूदो। ज़मीन से उछलकर वापस उतरना एक छलाँग गिना जाता है। ऊँचे स्तरों में समय के मुकाबले ज़्यादा छलाँगें लगानी होंगी।",
+    "Hold your phone dead still. The instant it flashes DRAW!, flick it up like a gunslinger. Move too early and it's a false start. Higher tiers shrink the reaction window and throw in fake-outs.": "फ़ोन को बिल्कुल स्थिर रखो। जैसे ही चलाओ! चमके, किसी बंदूकबाज़ की तरह फ़ोन को झटके से ऊपर उठाओ। जल्दी हिले तो फ़ॉल्स स्टार्ट होगा। ऊँचे स्तरों में प्रतिक्रिया का समय घटता है और झाँसा देने वाले संकेत भी आते हैं।",
+    "Hold your phone in an outstretched arm and swing big circles, always the same way. The gyroscope counts every full turn. Higher tiers want more circles, faster.": "बाँह सीधी फैलाकर फ़ोन पकड़ो और हमेशा एक ही दिशा में बड़े घेरे बनाओ। जायरोस्कोप हर पूरा चक्कर गिनता है। ऊँचे स्तरों में ज़्यादा चक्कर और ज़्यादा रफ़्तार चाहिए।",
+    "Hold your phone still. Tilting it rolls the ball the same way — keep it inside the target until the timer fills. The closer to the center, the more points. Higher tiers shrink the target and add a drift you have to fight.": "फ़ोन को स्थिर पकड़ो। जिस ओर झुकाओगे, गेंद उसी ओर लुढ़केगी। टाइमर भरने तक उसे निशाने के अंदर रखो। केंद्र के जितने करीब, उतने ज़्यादा अंक। ऊँचे स्तरों में निशाना छोटा होता है और गेंद के अपने आप बहकने को भी सँभालना पड़ता है।",
+    "Stack falling blocks and clear full lines before time runs out. Tap the board to rotate, drag to move, or use the buttons. Higher tiers fall faster, start with junk rows and hide the helpers.": "गिरते ब्लॉकों को जमाओ और समय खत्म होने से पहले पूरी कतारें बनाकर हटाओ। घुमाने के लिए बोर्ड पर टैप करो, खिसकाने के लिए खींचो या बटन इस्तेमाल करो। ऊँचे स्तरों में ब्लॉक तेज़ गिरते हैं, शुरुआत में अधूरी कतारें होती हैं और मददगार संकेत छिप जाते हैं।",
+    "Tilt your phone left, right, forward or back in the order shown, returning to level between moves. Higher tiers want longer sequences, deeper tilts, and finally make you memorize the whole sequence first.": "दिखाए गए क्रम में फ़ोन को बाएँ, दाएँ, आगे या पीछे झुकाओ। हर चाल के बीच उसे वापस समतल करो। ऊँचे स्तरों में क्रम लंबा होगा, ज़्यादा झुकाना होगा और आखिर में पूरा क्रम पहले याद करना पड़ेगा।",
+    "Tier:": "स्तर:",
+    "{0} games registered": "उपलब्ध मिनीगेम: {0}",
+    "Tiers: {0}-{1}  |  Weight: {2}  |  Time @ T{3}: {4}s": "स्तर: {0}-{1}  |  वज़न: {2}  |  स्तर {3} का समय: {4} सेकंड",
+    "{0}s": "{0} सेकंड",
+    "{0} ms": "{0} मि.से.",
+    "COMBO x{0}": "कॉम्बो x{0}",
+    "ICE": "बर्फ़",
+    "LEMON": "नींबू",
+    "Whack-a-Mole": "छछूँदर ठोको"
   }
 }
